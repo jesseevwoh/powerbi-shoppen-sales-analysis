@@ -8,6 +8,7 @@ This project analyzes the Q2 2025 sales performance of Shoppen, a fictional Euro
 
 
 **Business Objectives**
+
 Analyze revenue and profit performance over the quarter
 
 Compare profitability across sales channels
