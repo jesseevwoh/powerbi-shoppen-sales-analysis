@@ -1,5 +1,7 @@
 **Shoppen Q2 Sales Analysis**
+
 Power BI Business Intelligence Project
+
 By Jesse Evwoh
 
 
