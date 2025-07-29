@@ -40,6 +40,7 @@ The dataset covers only Q2, limiting time-based trend analysis
 Customer demographic data is limited and lacks diversity
 
 **Tools and Techniques**
+
 Power BI Desktop
 
 Data cleaning and transformation in Power Query
@@ -51,6 +52,7 @@ Data modeling with single-direction relationships
 Custom Date Table using CALENDARAUTO()
 
 **Key Metrics**
+
 Total Revenue: $324.24K
 
 Total Profit: $141.15K
