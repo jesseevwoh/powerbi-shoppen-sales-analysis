@@ -21,6 +21,7 @@ Identify top-performing products and operational risks
 
 
 **Dataset Summary**
+
 The dataset was sourced from Kaggle and includes seven relational tables simulating real-world retail data.
 
 Tables used:
